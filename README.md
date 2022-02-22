@@ -4,9 +4,14 @@
 
 Emojiiis - A NFT community driven project
 
+🌎 https://emojiiis.co
+
 Price : Free
+
 Chain : Polygon (MATIC)
+
 Interface : ERC721 (Ethereum standart)
+
 
 
 ##### Examples 
