@@ -1,10 +1,12 @@
 # 😎 Emojiiis.co
 
-[![Emojiiis](https://i.imgur.com/yQUSVK9.png)](https://emojiiis.co)
+[![Emojiiis](https://i.imgur.com/vhLSq7y.jpg)](https://emojiiis.co)
 
 Emojiiis - A NFT community driven project
 
-🌎 https://emojiiis.co
+🌎 Website : https://emojiiis.co
+
+💎 OpenSea : https://opensea.io/collection/emojiiis
 
 Price : Free
 
