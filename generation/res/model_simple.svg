@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1800px" height="1800px" viewBox="0 0 1800 1800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient {{PATTERN}} id="radialGradient-1">
+            <stop stop-color="{{COLORS_1}}" offset="0%"></stop>
+            <stop stop-color="{{COLORS_2}}" offset="32.5686416%"></stop>
+            <stop stop-color="{{COLORS_3}}" offset="63.6605853%"></stop>
+            <stop stop-color="{{COLORS_4}}" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5">
+            <rect id="COLORS" fill="url(#radialGradient-1)" x="0" y="0" width="1800" height="1800"></rect>
+            <rect id="BLUR" x="0" y="0" width="1800" height="1800"></rect>
+            <g id="Group-4" transform="translate(217.000000, 700.000000)" fill="#FFFFFF">
+                <g id="Group-2">
+                    <rect id="Rectangle" fill-opacity="0.817682" opacity="0.890050551" x="0" y="0" width="400" height="400" rx="83"></rect>
+                    <text id="e1" font-family="AppleColorEmoji, Apple Color Emoji" font-size="210" font-weight="normal" letter-spacing="1.4175">
+                        <tspan x="94.29125" y="286">{{EMOJI_1}}</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(483.000000, 0.000000)">
+                    <rect id="Rectangle" fill-opacity="0.817682" opacity="0.890050551" x="0" y="0" width="400" height="400" rx="83"></rect>
+                    <text id="e2" font-family="AppleColorEmoji, Apple Color Emoji" font-size="210" font-weight="normal" letter-spacing="1.4175">
+                        <tspan x="94.29125" y="286">{{EMOJI_2}}</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(966.000000, 0.000000)">
+                    <rect id="Rectangle" fill-opacity="0.817682" opacity="0.890050551" x="0" y="0" width="400" height="400" rx="83"></rect>
+                    <text id="e3" font-family="AppleColorEmoji, Apple Color Emoji" font-size="210" font-weight="normal" letter-spacing="1.4175">
+                        <tspan x="94.29125" y="286">{{EMOJI_3}}</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

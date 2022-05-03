@@ -1,0 +1,24 @@
+{
+  "name": "emojiiis-nft-generation",
+  "version": "1.0.0",
+  "description": "Generate random SVG images and JSON metadatas for emojiiis.co",
+  "main": "generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emojiiis/emojiiis.co.git"
+  },
+  "author": "Joseph Bedminster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emojiiis/emojiiis.co/issues"
+  },
+  "homepage": "https://github.com/Emojiiis/emojiiis.co#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}

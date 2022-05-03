@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600px" height="1600px" viewBox="0 0 1600 1600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="150%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#1BC47D" stop-opacity="0.82" offset="0%"></stop>
+            <stop stop-color="#18A0FB" stop-opacity="0.81" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(-312.000000, -4.000000)">
+            <g id="svg" fill-rule="nonzero">
+                <rect id="Rectangle-path" fill="#FFFFFF" x="312" y="4" width="1600" height="1600"></rect>
+                <rect id="BG" fill-opacity="0.35" fill="{{COLOR_BG}}" x="312" y="4" width="1600" height="1600"></rect>
+                <g id="GroupForms">
+                    <polygon id="Shape" fill="{{COLOR_1}}" transform="translate(1343.000000, 147.000000) scale(-1, -1) translate(-1343.000000, -147.000000) " points="1343 0 754 294 1932 294"></polygon>
+                    <ellipse id="Oval" fill="{{COLOR_2}}" cx="1343" cy="887" rx="515" ry="543"></ellipse>
+                    <rect id="Rectangle-path" fill="{{COLOR_3}}" x="0" y="469" width="1083" height="1098"></rect>
+                </g>
+            </g>
+            <rect id="Rectangle-2" x="312" y="4" width="1600" height="1600"></rect>
+            <g id="Group-4" transform="translate(429.000000, 604.000000)" fill="#FFFFFF">
+                <g id="Group-2">
+                    <rect id="Rectangle" fill-opacity="0.817682" opacity="0.890050551" x="0" y="0" width="400" height="400" rx="83"></rect>
+                    <text id="😎" font-family="AppleColorEmoji, Apple Color Emoji" font-size="210" font-weight="normal" letter-spacing="1.4175">
+                        <tspan x="94.29125" y="286">😎</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(483.000000, 0.000000)">
+                    <rect id="Rectangle" fill-opacity="0.817682" opacity="0.890050551" x="0" y="0" width="400" height="400" rx="83"></rect>
+                    <text id="🔥" font-family="AppleColorEmoji, Apple Color Emoji" font-size="210" font-weight="normal" letter-spacing="1.4175">
+                        <tspan x="94.29125" y="286">🔥</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(966.000000, 0.000000)">
+                    <rect id="Rectangle" fill-opacity="0.817682" opacity="0.890050551" x="0" y="0" width="400" height="400" rx="83"></rect>
+                    <text id="🎉" font-family="AppleColorEmoji, Apple Color Emoji" font-size="210" font-weight="normal" letter-spacing="1.4175">
+                        <tspan x="94.29125" y="286">🎉</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
